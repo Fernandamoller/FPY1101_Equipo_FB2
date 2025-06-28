@@ -1,6 +1,6 @@
 # Menú base del programa
 def datos_fernanda():
-print("Mi nombre es Fernanda Moller y tengo 20 años.")
+    print("Mi nombre es Fernanda Moller y tengo 20 años.")
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
     print("1. Función de integrante 1")
