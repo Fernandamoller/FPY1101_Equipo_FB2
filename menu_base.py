@@ -1,4 +1,8 @@
 # Menú base del programa
+
+def datos_benjamin():
+    print("Mi nombre es Benjamin y tengo 23 años")
+
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
     print("1. Función de integrante 1")
